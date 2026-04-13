@@ -7,169 +7,169 @@
 
 ## TIER 1: Major IT Staffing Companies (Well-known, nationwide, actively do C2C with H-1B/OPT)
 
-| # | Company | HQ Location | Notes |
-|---|---------|-------------|-------|
-| 1 | TEKsystems | Hanover, MD | One of largest IT staffing, nationwide |
-| 2 | Collabera | Basking Ridge, NJ | Strong H-1B support, Fortune 500 clients |
-| 3 | Kforce Inc | Tampa, FL | Technology, Finance, Business Operations |
-| 4 | Randstad Technologies | Atlanta, GA | Global leader, W2 and C2C |
-| 5 | Apex Systems | Glen Allen, VA | Major IT staffing |
-| 6 | Insight Global | Atlanta, GA | Large scale IT staffing |
-| 7 | Robert Half Technology | Menlo Park, CA | Nationwide |
-| 8 | Modis (now Akkodis) | Jacksonville, FL | IT staffing arm of Adecco |
-| 9 | Experis | Milwaukee, WI | ManpowerGroup's IT staffing |
-| 10 | Hays | New York, NY (US HQ) | Global staffing |
-| 11 | Kelly Services | Troy, MI | Nationwide |
-| 12 | Allegis Group | Hanover, MD | Parent of TEKsystems, Aerotek |
-| 13 | Aerotek | Hanover, MD | Engineering & IT staffing |
-| 14 | ManpowerGroup | Milwaukee, WI | Global staffing |
-| 15 | Adecco | Jacksonville, FL | Global staffing giant |
-| 16 | CyberCoders | Irvine, CA | Tech recruiting |
-| 17 | Vaco | Nashville, TN | IT consulting & staffing |
-| 18 | Mastech Digital | Pittsburgh, PA | Strong H-1B track record |
-| 19 | Signature Consultants | Fort Lauderdale, FL | IT staffing |
-| 20 | Eliassen Group | Reading, MA | IT staffing & consulting |
-| 21 | The Judge Group | Wayne, PA | IT staffing |
-| 22 | Mindlance | Union, NJ | IT staffing, H-1B friendly |
-| 23 | DISYS | McLean, VA | IT staffing |
-| 24 | Pyramid Consulting | Alpharetta, GA | IT staffing, H-1B |
-| 25 | Motion Recruitment | Boston, MA | Tech staffing |
-| 26 | Beacon Hill Staffing Group | Boston, MA | IT division |
-| 27 | Addison Group | Chicago, IL | IT staffing |
-| 28 | The Select Group | Raleigh, NC | IT staffing |
-| 29 | Brooksource | Indianapolis, IN | IT staffing |
-| 30 | Genesis10 | New York, NY | IT staffing & consulting |
+| # | Company | HQ Location | Careers Page | Notes |
+|---|---------|-------------|-------------|-------|
+| 1 | TEKsystems | Hanover, MD | [Careers](https://careers.teksystems.com/us/en) | One of largest IT staffing, nationwide |
+| 2 | Collabera | Basking Ridge, NJ | [Careers](https://collabera.com/job-search/) | Strong H-1B support, Fortune 500 clients |
+| 3 | Kforce Inc | Tampa, FL | [Careers](https://www.kforce.com/find-work/search-jobs/) | Technology, Finance, Business Operations |
+| 4 | Randstad Technologies (now Randstad Digital) | Atlanta, GA | [Careers](https://www.randstaddigital.com/careers/current-opportunities/) | Global leader, W2 and C2C |
+| 5 | Apex Systems | Glen Allen, VA | [Careers](https://www.apexsystems.com/careers) | Major IT staffing |
+| 6 | Insight Global | Atlanta, GA | [Careers](https://jobs.insightglobal.com/) | Large scale IT staffing |
+| 7 | Robert Half Technology | Menlo Park, CA | [Careers](https://www.roberthalf.com/us/en/jobs/all/technology) | Nationwide |
+| 8 | Modis (now Akkodis) | Jacksonville, FL | [Careers](https://www.akkodis.com/en-us/careers/job-results) | IT staffing arm of Adecco |
+| 9 | Experis | Milwaukee, WI | [Careers](https://www.experis.com/en/for-job-seekers) | ManpowerGroup's IT staffing |
+| 10 | Hays | New York, NY (US HQ) | [Careers](https://www.hays.com/jobs) | Global staffing |
+| 11 | Kelly Services | Troy, MI | [Careers](https://www.kellyservices.com/find-a-job/) | Nationwide |
+| 12 | Allegis Group | Hanover, MD | [Careers](https://www.allegisgroup.com/en/careers) | Parent of TEKsystems, Aerotek |
+| 13 | Aerotek | Hanover, MD | [Careers](https://www.aerotek.com/en/career-opportunities) | Engineering & IT staffing |
+| 14 | ManpowerGroup | Milwaukee, WI | [Careers](https://www.manpowergroup.com/en/careers) | Global staffing |
+| 15 | Adecco | Jacksonville, FL | [Careers](https://www.adecco.com/en-us/job-seekers) | Global staffing giant |
+| 16 | CyberCoders | Irvine, CA | [Careers](https://www.cybercoders.com/jobs/) | Tech recruiting |
+| 17 | Vaco | Nashville, TN | [Careers](https://jobs.vaco.com/home) | IT consulting & staffing |
+| 18 | Mastech Digital | Pittsburgh, PA | [Careers](https://jobs.mastechdigital.com/) | Strong H-1B track record |
+| 19 | Signature Consultants (now Dexian) | Fort Lauderdale, FL | [Careers](https://dexian.com/jobs/) | IT staffing |
+| 20 | Eliassen Group | Reading, MA | [Careers](https://careers.eliassen.com/) | IT staffing & consulting |
+| 21 | The Judge Group | Wayne, PA | [Careers](https://www.judge.com/jobs/) | IT staffing |
+| 22 | Mindlance | Union, NJ | [Careers](https://mindlance.com/job-board/) | IT staffing, H-1B friendly |
+| 23 | DISYS (now Dexian) | McLean, VA | [Careers](https://dexian.com/jobs/) | IT staffing |
+| 24 | Pyramid Consulting | Alpharetta, GA | [Careers](https://pyramidci.com/careers/) | IT staffing, H-1B |
+| 25 | Motion Recruitment | Boston, MA | [Careers](https://motionrecruitment.com/tech-jobs) | Tech staffing |
+| 26 | Beacon Hill Staffing Group | Boston, MA | [Careers](https://jobs.beaconhillstaffing.com/jobs/) | IT division |
+| 27 | Addison Group | Chicago, IL | [Careers](https://www.addisongroup.com/jobs/) | IT staffing |
+| 28 | The Select Group | Raleigh, NC | [Careers](https://www.selectgroup.com/career-seekers/careers/) | IT staffing |
+| 29 | Brooksource | Indianapolis, IN | [Careers](https://jobs.brooksource.com/jobs/) | IT staffing |
+| 30 | Genesis10 | New York, NY | [Careers](https://www.genesis10.com/career-opportunities) | IT staffing & consulting |
 
 ---
 
 ## TIER 2: Indian IT / Desi Consulting Companies (Commonly do C2C, H-1B sponsorship)
 
-| # | Company | US HQ Location | Notes |
-|---|---------|----------------|-------|
-| 31 | Infosys | Atlanta, GA | Major Indian IT |
-| 32 | Wipro Technologies | East Brunswick, NJ | Major Indian IT |
-| 33 | TCS (Tata Consultancy Services) | New York, NY | Major Indian IT |
-| 34 | Cognizant Technology Solutions | Teaneck, NJ | Major IT services |
-| 35 | Tech Mahindra | Plano, TX | IT services |
-| 36 | HCL Technologies | Sunnyvale, CA | IT services |
-| 37 | Hexaware Technologies | Jersey City, NJ | IT services |
-| 38 | Mindtree | Warren, NJ | IT services |
-| 39 | Mphasis | New York, NY | IT services |
-| 40 | Syntel | Troy, MI | IT services |
-| 41 | Birlasoft | Edison, NJ | IT services |
-| 42 | L&T Technology Services | San Jose, CA | Engineering & IT |
-| 43 | UST Global | Aliso Viejo, CA | IT services |
-| 44 | Synechron | New York, NY | IT consulting |
-| 45 | Virtusa | Southborough, MA | IT services |
-| 46 | Genpact | New York, NY | IT & BPO |
-| 47 | Tavant Technologies | Santa Clara, CA | IT consulting |
-| 48 | Xoriant Corporation | Sunnyvale, CA | IT services |
-| 49 | Yash Technologies | Chicago, IL | IT services |
-| 50 | Zensar Technologies | Princeton, NJ | IT services |
-| 51 | Marlabs Inc | Piscataway, NJ | IT consulting |
-| 52 | Prodapt North America | Richardson, TX | IT services |
-| 53 | Tata Elxsi | Santa Clara, CA | Design & technology |
-| 54 | Cyient | East Hartford, CT | Engineering & IT |
-| 55 | NIIT Technologies | Princeton, NJ | IT services |
+| # | Company | US HQ Location | Careers Page | Notes |
+|---|---------|----------------|-------------|-------|
+| 31 | Infosys | Atlanta, GA | [Careers](https://careers.infosys.com/) | Major Indian IT |
+| 32 | Wipro Technologies | East Brunswick, NJ | [Careers](https://careers.wipro.com/) | Major Indian IT |
+| 33 | TCS (Tata Consultancy Services) | New York, NY | [Careers](https://www.tcs.com/careers) | Major Indian IT |
+| 34 | Cognizant Technology Solutions | Teaneck, NJ | [Careers](https://careers.cognizant.com/us-en/jobs/) | Major IT services |
+| 35 | Tech Mahindra | Plano, TX | [Careers](https://careers.techmahindra.com/) | IT services |
+| 36 | HCL Technologies | Sunnyvale, CA | [Careers](https://careers.hcltech.com/) | IT services |
+| 37 | Hexaware Technologies | Jersey City, NJ | [Careers](https://jobs.hexaware.com/) | IT services |
+| 38 | Mindtree (now LTIMindtree) | Warren, NJ | [Careers](https://careers.ltimindtree.com/) | IT services |
+| 39 | Mphasis | New York, NY | [Careers](https://careers.mphasis.com/) | IT services |
+| 40 | Syntel (now Atos) | Troy, MI | [Careers](https://jobs.atos.net/) | IT services |
+| 41 | Birlasoft | Edison, NJ | [Careers](https://jobs.birlasoft.com/) | IT services |
+| 42 | L&T Technology Services | San Jose, CA | [Careers](https://jobs.ltts.com/) | Engineering & IT |
+| 43 | UST (formerly UST Global) | Aliso Viejo, CA | [Careers](https://www.ust.com/en/jobsearch) | IT services |
+| 44 | Synechron | New York, NY | [Careers](https://www.synechron.com/en-us/careers/jobs) | IT consulting |
+| 45 | Virtusa | Southborough, MA | [Careers](https://www.virtusa.com/careers/job-search) | IT services |
+| 46 | Genpact | New York, NY | [Careers](https://www.genpact.com/careers/job-search) | IT & BPO |
+| 47 | Tavant Technologies | Santa Clara, CA | [Careers](https://careers.tavant.com/tavant/) | IT consulting |
+| 48 | Xoriant Corporation | Sunnyvale, CA | [Careers](https://www.xoriant.com/about-xoriant/careers) | IT services |
+| 49 | Yash Technologies | Chicago, IL | [Careers](https://careers.yash.com/) | IT services |
+| 50 | Zensar Technologies | Princeton, NJ | [Careers](https://www.zensar.com/current-opportunities) | IT services |
+| 51 | Marlabs Inc | Piscataway, NJ | [Careers](https://www.marlabs.com/careers) | IT consulting |
+| 52 | Prodapt North America | Richardson, TX | [Careers](https://careers.prodapt.com/jobs) | IT services |
+| 53 | Tata Elxsi | Santa Clara, CA | [Careers](https://www.tataelxsi.com/careers/job-openings) | Design & technology |
+| 54 | Cyient | East Hartford, CT | [Careers](https://careers.cyient.com/cyient/) | Engineering & IT |
+| 55 | NIIT Technologies (now Coforge) | Princeton, NJ | [Careers](https://careers.coforge.com/coforge/) | IT services |
 
 ---
 
 ## TIER 3: Mid-Size C2C Staffing & Consulting Vendors
 
-| # | Company | HQ Location |
-|---|---------|-------------|
-| 56 | V-Soft Consulting | Louisville, KY |
-| 57 | Tekwissen LLC | Ann Arbor, MI |
-| 58 | Aditi Consulting LLC | Bellevue, WA |
-| 59 | Kyyba Inc | Farmington Hills, MI |
-| 60 | Populus Group | Troy, MI |
-| 61 | Prowess Software Services | Cumming, GA |
-| 62 | Innova Solutions | Atlanta, GA |
-| 63 | LanceSoft Inc | Herndon, VA |
-| 64 | Compunnel Software Group | Princeton, NJ |
-| 65 | Net2Source Inc | Somerset, NJ |
-| 66 | Diverse Lynx | Princeton, NJ |
-| 67 | eTeam Inc | South Plainfield, NJ |
-| 68 | Stellent IT | Jacksonville, FL |
-| 69 | Global Technical Talent | Portsmouth, NH |
-| 70 | Zillion Technologies | Ashburn, VA |
-| 71 | US Tech Solutions | Jersey City, NJ |
-| 72 | Miracle Software Systems | Novi, MI |
-| 73 | HTC Global Services | Troy, MI |
-| 74 | Ampcus Inc | Chantilly, VA |
-| 75 | Spectraforce Technologies | Raleigh, NC |
-| 76 | Intelliswift Software | Fremont, CA |
-| 77 | AgreeYa Solutions | Folsom, CA |
-| 78 | Softpath System LLC | Norcross, GA |
-| 79 | VDart Inc | Alpharetta, GA |
-| 80 | iTech Solutions | Farmington, CT |
-| 81 | Infojini Consulting | Columbia, MD |
-| 82 | Macrosoft Inc | Parsippany, NJ |
-| 83 | Zycron Inc | Nashville, TN |
-| 84 | Rose International | Chesterfield, MO |
-| 85 | Quintrix (formerly Revature) | New York, NY |
-| 86 | Sapphire Technologies | Vienna, VA |
-| 87 | Alltech Consulting | Princeton, NJ |
-| 88 | Axelon Services Corp | New York, NY |
-| 89 | Quadrant Inc | Reston, VA |
-| 90 | CodeForce | Alpharetta, GA |
-| 91 | Strive Consulting | Chicago, IL |
-| 92 | TekPartners | Fort Lauderdale, FL |
-| 93 | Tandym Group | New York, NY |
-| 94 | Comrise | Woodbridge, NJ |
-| 95 | CTG (Computer Task Group) | Buffalo, NY |
-| 96 | System One | Pittsburgh, PA |
-| 97 | Strategic Staffing Solutions | Detroit, MI |
-| 98 | Systemart | Parsippany, NJ |
-| 99 | Diversant LLC | Red Bank, NJ |
-| 100 | Genuent | Houston, TX |
+| # | Company | HQ Location | Careers Page |
+|---|---------|-------------|-------------|
+| 56 | V-Soft Consulting | Louisville, KY | [Careers](https://www.vsoftconsulting.com/career-portal/) |
+| 57 | Tekwissen LLC | Ann Arbor, MI | [Careers](https://tekwissen.com/job-openings/) |
+| 58 | Aditi Consulting LLC | Bellevue, WA | [Careers](https://www.aditiconsulting.com/careers) |
+| 59 | Kyyba Inc | Farmington Hills, MI | [Careers](https://www.kyyba.com/careers.html) |
+| 60 | Populus Group | Troy, MI | [Careers](https://www.populusgroup.com/en/job-seeker/contract-direct-hire) |
+| 61 | Prowess Software Services | Cumming, GA | [Careers](https://www.prowesssoft.com/careers/) |
+| 62 | Innova Solutions | Atlanta, GA | [Careers](https://jobsusa.innovasolutions.com/) |
+| 63 | LanceSoft Inc | Herndon, VA | [Careers](https://careers.lancesoft.com/) |
+| 64 | Compunnel Software Group | Princeton, NJ | [Careers](https://www.compunnel.com/job-search/) |
+| 65 | Net2Source Inc | Somerset, NJ | [Careers](https://www.net2source.com/jobs) |
+| 66 | Diverse Lynx | Princeton, NJ | [Careers](https://www.diverselynx.com/career-with-us/) |
+| 67 | eTeam Inc | South Plainfield, NJ | [Careers](https://www.eteaminc.com/careers) |
+| 68 | Stellent IT | Jacksonville, FL | [Careers](https://www.stellentit.com/staffing/) |
+| 69 | Global Technical Talent | Portsmouth, NH | [Careers](https://gttit.com/Careers/) |
+| 70 | Zillion Technologies | Ashburn, VA | [Careers](https://zilliontechnologies.com/careers/) |
+| 71 | US Tech Solutions | Jersey City, NJ | [Careers](https://careers.ustechsolutions.com/) |
+| 72 | Miracle Software Systems | Novi, MI | [Careers](https://careers.miraclesoft.com/open-positions/) |
+| 73 | HTC Global Services | Troy, MI | [Careers](https://www.htcinc.com/career-job-listing/) |
+| 74 | Ampcus Inc | Chantilly, VA | [Careers](https://ampcus.com/current-openings/) |
+| 75 | Spectraforce Technologies | Raleigh, NC | [Careers](https://spectraforce.com/Careers/JobList) |
+| 76 | Intelliswift Software | Fremont, CA | [Careers](https://www.intelliswift.com/careers) |
+| 77 | AgreeYa Solutions | Folsom, CA | [Careers](https://agreeya.com/job-openings/) |
+| 78 | Softpath System LLC | Norcross, GA | [Careers](https://www.softpath.net/careers.html) |
+| 79 | VDart Inc | Alpharetta, GA | [Careers](https://www.vdart.com/careers/current-opportunities/) |
+| 80 | iTech Solutions | Farmington, CT | [Careers](https://itechsolutions.com/job-postings/) |
+| 81 | Infojini Consulting | Columbia, MD | [Careers](https://www.infojiniconsulting.com/current-openings/) |
+| 82 | Macrosoft Inc | Parsippany, NJ | [Careers](https://www.macrosoftinc.com/jobs/) |
+| 83 | Zycron Inc | Nashville, TN | [Careers](https://zycron.hire.trakstar.com/) |
+| 84 | Rose International | Chesterfield, MO | [Careers](https://www.roseint.com/hotjobs/) |
+| 85 | Quintrix (formerly Revature) | New York, NY | [Careers](https://jobs.revature.com/) |
+| 86 | Sapphire Technologies | Vienna, VA | [Careers](https://sapphiresoftwaresolutions.com/careers.html) |
+| 87 | Alltech Consulting | Princeton, NJ | [Careers](https://www.alltechconsultinginc.com/jobs/) |
+| 88 | Axelon Services Corp | New York, NY | [Careers](https://www.axelon.com/search-jobs/) |
+| 89 | Quadrant Inc | Reston, VA | [Careers](https://www.quadrantinc.com/job-seekers/) |
+| 90 | CodeForce | Alpharetta, GA | [Careers](https://codeforce.com/jobs/) |
+| 91 | Strive Consulting (now Launch Consulting) | Chicago, IL | [Careers](https://careers.launchconsulting.com/) |
+| 92 | TekPartners | Fort Lauderdale, FL | [Careers](https://www.tekpartners.com/jobs/) |
+| 93 | Tandym Group | New York, NY | [Careers](https://www.careers.tandymgroup.com/) |
+| 94 | Comrise | Woodbridge, NJ | [Careers](https://comrise.com/job-seekers/current-client-openings/) |
+| 95 | CTG (Computer Task Group) | Buffalo, NY | [Careers](https://jobs.ctg.com/jobs/) |
+| 96 | System One | Pittsburgh, PA | [Careers](https://jobs.systemoneservices.com/) |
+| 97 | Strategic Staffing Solutions | Detroit, MI | [Careers](https://careers.strategicstaff.com/) |
+| 98 | Systemart | Parsippany, NJ | [Careers](https://systemart.com/careers/) |
+| 99 | Diversant LLC | Red Bank, NJ | [Careers](https://careers.diversant.com/) |
+| 100 | Genuent (now INSPYR Solutions) | Houston, TX | [Careers](https://www.inspyrsolutions.com/job-search/) |
 
 ---
 
 ## TIER 4: Smaller / Niche C2C Vendors (Active in C2C market)
 
-| # | Company | HQ Location |
-|---|---------|-------------|
-| 101 | Jennistech | Plainview, NY |
-| 102 | Tec-Leaders (Tek Leaders) | Plano, TX |
-| 103 | Tekyantra | Folsom, CA |
-| 104 | Vie Global Tech | Plano, TX |
-| 105 | Agile Squad Inc | River Edge, NJ |
-| 106 | Sri Lakshmi Tech | Parker, CO |
-| 107 | Thought Circuits | Irving, TX |
-| 108 | GP Technologies | Columbia, SC |
-| 109 | Astek IT Solutions | Irving, TX |
-| 110 | Abhyanth Solutions | Miami, FL |
-| 111 | Stem Sol LLC | Fuquay Varina, NC |
-| 112 | Cleo Consult | Buffalo, NY |
-| 113 | Indus Group | NJ |
-| 114 | AI Pioneer | TX (unverified) |
-| 115 | Tech Talent Connect | Lees Summit, MO |
-| 116 | Tek Prosol | Princeton, NJ |
-| 117 | Work Cog | TX (unverified) |
-| 118 | Encrypt IT Service | TX (unverified) |
-| 119 | Unique Logic Solutions | Bentonville, AR |
-| 120 | Eficens IT | Suwanee, GA |
-| 121 | TB Soft Solutions | NJ (unverified) |
-| 122 | Squad Softwares | Iselin, NJ |
-| 123 | Cognitive Minds Inc | Novi, MI |
-| 124 | Dream Fill Tech | Abilene, TX |
-| 125 | Rally Cloud Tech | Houston, TX |
-| 126 | Fusion Grid Tek | TX (unverified) |
-| 127 | Neural AI Computing | CA (unverified) |
-| 128 | Keen Technos | Irving, TX |
-| 129 | Data Spectron | Houston, TX |
-| 130 | Bot Agents | TX (unverified) |
-| 131 | Grok Sys | TX (unverified) |
-| 132 | Veritas IT Inc | Santa Clara, CA |
-| 133 | Elevate Hire X | TX (unverified) |
-| 134 | Delton Solutions | Palm Harbor, FL |
-| 135 | AVJ Solutions | Irving, TX |
-| 136 | Lares ITS | Germantown, MD |
-| 137 | Centillion Z | Piscataway, NJ |
-| 138 | Siri Soft Solutions | Edison, NJ |
-| 139 | Optimum InfoTech | Austin, TX |
-| 140 | WhizCo Consulting | TX (unverified) |
+| # | Company | HQ Location | Careers Page |
+|---|---------|-------------|-------------|
+| 101 | Jennistech | Plainview, NY | [Careers](https://jennistech.com/careers.html) |
+| 102 | Tec-Leaders (Tek Leaders) | Plano, TX | [Careers](https://tekleaders.com/jobs/) |
+| 103 | Tekyantra | Folsom, CA | [Careers](https://tekyantra.com/about-us/#Career) |
+| 104 | Vie Global Tech | Plano, TX | [Careers](https://vieglobaltech.com/careers/) |
+| 105 | Agile Squad Inc | River Edge, NJ | [Careers](https://www.agilesquadinc.com/Career) |
+| 106 | Sri Lakshmi Tech | Parker, CO | [Careers](https://www.srilakshmitech.net/careers) |
+| 107 | Thought Circuits | Irving, TX | [Careers](https://www.thoughtcircuits.com/careers) |
+| 108 | GP Technologies | Columbia, SC | [Careers](https://gp-technologies.com/career.html) |
+| 109 | Astek IT Solutions | Irving, TX | [Careers](https://www.astekitsolutions.com/careers/) |
+| 110 | Abhyanth Solutions | Miami, FL | [Careers](https://abhyanthsolutions.com/careers/) |
+| 111 | Stem Sol LLC | Fuquay Varina, NC | [Careers](https://stemsolllc.com/careers/) |
+| 112 | Cleo Consult | Buffalo, NY | [Careers](https://cleoconsult.com/jobs/) |
+| 113 | Indus Group | NJ | NOT FOUND |
+| 114 | AI Pioneer | TX (unverified) | [Careers](https://www.aipioneer.ai/careers/) |
+| 115 | Tech Talent Connect | Lees Summit, MO | NOT FOUND |
+| 116 | Tek Prosol | Princeton, NJ | [Careers](https://www.tekprosol.com/careers) |
+| 117 | Work Cog | TX (unverified) | [Careers](https://www.workcog.com/careers/) |
+| 118 | Encrypt IT Service | TX (unverified) | [Careers](https://encryptitservice.com/careers/) |
+| 119 | Unique Logic Solutions | Bentonville, AR | [Careers](https://uniquelogicsol.com/careers.html) |
+| 120 | Eficens IT | Suwanee, GA | [Careers](https://eficensithub.com/Careers.html) |
+| 121 | TB Soft Solutions | NJ (unverified) | NOT FOUND |
+| 122 | Squad Softwares | Iselin, NJ | [Careers](https://www.squadsoftwares.com/careers.php) |
+| 123 | Cognitive Minds Inc | Novi, MI | [Careers](https://www.cognitivemindsinc.com/careers/) |
+| 124 | Dream Fill Tech | Abilene, TX | NOT FOUND |
+| 125 | Rally Cloud Tech | Houston, TX | NOT FOUND |
+| 126 | Fusion Grid Tek | TX (unverified) | [Careers](https://fusiongridtek.com/career.html) |
+| 127 | Neural AI Computing | CA (unverified) | NOT FOUND |
+| 128 | Keen Technos | Irving, TX | NOT FOUND |
+| 129 | Data Spectron | Houston, TX | NOT FOUND |
+| 130 | Bot Agents | TX (unverified) | NOT FOUND |
+| 131 | Grok Sys | TX (unverified) | [Careers](https://groksys.com/careers/) |
+| 132 | Veritas IT Inc | Santa Clara, CA | [Careers](https://www.veritasit.com/apply-jobs.html) |
+| 133 | Elevate Hire X | TX (unverified) | NOT FOUND |
+| 134 | Delton Solutions | Palm Harbor, FL | NOT FOUND |
+| 135 | AVJ Solutions | Irving, TX | [Careers](https://avj-solutions.com/careers) |
+| 136 | Lares ITS | Germantown, MD | [Careers](https://laresit.com/careers/) |
+| 137 | Centillion Z | Piscataway, NJ | [Careers](https://centillionz.com/careers/job-board) |
+| 138 | Siri Soft Solutions | Edison, NJ | [Careers](https://www.sirisoftsolutions.com/job_opportunities.php) |
+| 139 | Optimum InfoTech | Austin, TX | NOT FOUND |
+| 140 | WhizCo Consulting | TX (unverified) | NOT FOUND |
 
 ---
 
@@ -1044,81 +1044,81 @@ These are all additional companies found in C2C vendor directories that work on 
 
 ## TIER 6: Additional Staffing Companies That Handle C2C Roles
 
-| # | Company | HQ Location |
-|---|---------|-------------|
-| 1 | Aston Carter | Hanover, MD |
-| 2 | Spherion | Atlanta, GA |
-| 3 | Express Employment Professionals | Oklahoma City, OK |
-| 4 | Pinnacle Technical Resources | Dallas, TX |
-| 5 | Yoh | Philadelphia, PA |
-| 6 | On Assignment (ASGN) | Calabasas, CA |
-| 7 | Ettain Group | Charlotte, NC |
-| 8 | SNI Companies | Jacksonville, FL |
-| 9 | PrideStaff | Fresno, CA |
-| 10 | BelFlex Staffing Network | Cincinnati, OH |
-| 11 | PDS Tech | Maryland Heights, MO |
-| 12 | ResourceMFG | Oklahoma City, OK |
-| 13 | AppleOne | Glendale, CA |
-| 14 | Staffmark | Cincinnati, OH |
-| 15 | Remedy Staffing | Dallas, TX |
-| 16 | Snelling | Dallas, TX |
-| 17 | Volt | New York, NY |
-| 18 | PEAK Technical Staffing USA | Pittsburgh, PA |
-| 19 | MATRIX | Atlanta, GA |
-| 20 | Sparks Group | Rockville, MD |
-| 21 | Talascend | Troy, MI |
-| 22 | The LaSalle Network | Chicago, IL |
-| 23 | Roth Staffing Companies | Orange, CA |
-| 24 | Elwood Staffing | Columbus, IN |
-| 25 | Surge | Columbus, OH |
-| 26 | Insperity | Kingwood (Houston), TX |
-| 27 | Solomon Page | New York, NY |
-| 28 | Atlantic Group | New York, NY |
-| 29 | Green Key Resources | New York, NY |
-| 30 | Atrium Staffing | New York, NY |
-| 31 | Airswift | Houston, TX |
-| 32 | Versique | Minneapolis, MN |
-| 33 | IDR | Alpharetta, GA |
-| 34 | Direct Recruiters | Solon, OH |
-| 35 | Medix | Oak Brook, IL |
-| 36 | NYTP - New York Technology Partners | Iselin, NJ |
-| 37 | MAU Workforce Solutions | Augusta, GA |
-| 38 | Frontline Source Group | Dallas, TX |
-| 39 | Scion Staffing | San Francisco, CA |
+| # | Company | HQ Location | Careers Page |
+|---|---------|-------------|-------------|
+| 1 | Aston Carter | Hanover, MD | [Careers](https://www.astoncarter.com/en/career-opportunities) |
+| 2 | Spherion | Atlanta, GA | [Careers](https://www.spherion.com/jobs/) |
+| 3 | Express Employment Professionals | Oklahoma City, OK | [Careers](https://www.expresspros.com/job-seekers/search-jobs) |
+| 4 | Pinnacle Technical Resources | Dallas, TX | [Careers](https://www.ptrglobal.com/careers/) |
+| 5 | Yoh | Philadelphia, PA | [Careers](https://jobs.yoh.com/) |
+| 6 | On Assignment (ASGN) | Calabasas, CA | *(Parent co; use CyberCoders, Creative Circle)* |
+| 7 | Ettain Group | Charlotte, NC | [Careers](https://careers.smartrecruiters.com/EttainGroup) |
+| 8 | SNI Companies | Jacksonville, FL | [Careers](https://www.snicompanies.com/jobs/) |
+| 9 | PrideStaff | Fresno, CA | [Careers](https://jobs.pridestaff.com) |
+| 10 | BelFlex Staffing Network | Cincinnati, OH | [Careers](https://belflex.com/belflex-internal-careers/) |
+| 11 | PDS Tech | Maryland Heights, MO | [Careers](https://jobs.pdstech.com/jobs/job-search) |
+| 12 | ResourceMFG | Oklahoma City, OK | [Careers](https://www.resourcemfg.com/jobs/) |
+| 13 | AppleOne | Glendale, CA | [Careers](https://www.appleone.com/CareerSearch/) |
+| 14 | Staffmark | Cincinnati, OH | [Careers](https://staffmark.com/jobs/detail/) |
+| 15 | Remedy Staffing | Dallas, TX | [Careers](https://www.remedystaffing.com/jobs/) |
+| 16 | Snelling | Dallas, TX | [Careers](https://www.snelling.com/jobs/) |
+| 17 | Volt | New York, NY | [Careers](https://jobs.volt.com/) |
+| 18 | PEAK Technical Staffing USA | Pittsburgh, PA | [Careers](https://careers.peaktechnical.com/) |
+| 19 | MATRIX | Atlanta, GA | [Careers](https://www.matrixres.com/en-US/jobs) |
+| 20 | Sparks Group | Rockville, MD | [Careers](https://jobs.sparksgroupinc.com/Jobs) |
+| 21 | Talascend | Troy, MI | [Careers](https://www.talascend.com/portal/jobseekers/jobs/search) |
+| 22 | The LaSalle Network | Chicago, IL | [Careers](https://www.thelasallenetwork.com/job-search/) |
+| 23 | Roth Staffing Companies | Orange, CA | [Careers](https://jobs.rothstaffing.com/) |
+| 24 | Elwood Staffing | Columbus, IN | [Careers](https://www.elwoodstaffing.com/jobsearch/) |
+| 25 | Surge | Columbus, OH | [Careers](https://surgestaffing.com/jobsearch/) |
+| 26 | Insperity | Kingwood (Houston), TX | [Careers](https://careers.insperity.com/jobs/) |
+| 27 | Solomon Page | New York, NY | [Careers](https://opportunities.solomonpage.com/) |
+| 28 | Atlantic Group | New York, NY | [Careers](https://atlanticrecruiters.com/job-postings/) |
+| 29 | Green Key Resources | New York, NY | [Careers](https://greenkeyllc.com/jobs/) |
+| 30 | Atrium Staffing | New York, NY | [Careers](https://www.atriumstaff.com/jobs/) |
+| 31 | Airswift | Houston, TX | [Careers](https://www.airswift.com/jobs) |
+| 32 | Versique | Minneapolis, MN | [Careers](https://www.versique.com/jobs/) |
+| 33 | IDR | Alpharetta, GA | [Careers](https://jobs.idr-inc.com/) |
+| 34 | Direct Recruiters | Solon, OH | [Careers](https://directrecruiters.com/for-candidates/view-opportunities/) |
+| 35 | Medix | Oak Brook, IL | [Careers](https://jobs.medixteam.com/) |
+| 36 | NYTP - New York Technology Partners | Iselin, NJ | [Careers](https://www.nytp.com/career-opportunities) |
+| 37 | MAU Workforce Solutions | Augusta, GA | [Careers](https://jobs.mau.com/) |
+| 38 | Frontline Source Group | Dallas, TX | [Careers](https://jobs.frontlinesourcegroup.com/) |
+| 39 | Scion Staffing | San Francisco, CA | [Careers](https://scionstaffing.com/search-jobs/) |
 
 ---
 
 ## H-1B Specific Sponsors (Companies known for H-1B + C2C)
 
-| Company | HQ Location | H-1B Track Record |
-|---------|-------------|-------------------|
-| Collabera | Basking Ridge, NJ | High volume H-1B sponsor |
-| Mastech Digital | Pittsburgh, PA | High volume H-1B sponsor |
-| Infosys | Atlanta, GA (US) | Top H-1B sponsor |
-| TCS | New York, NY | Top H-1B sponsor |
-| Cognizant | Teaneck, NJ | Top H-1B sponsor |
-| Wipro | East Brunswick, NJ | Top H-1B sponsor |
-| Tech Mahindra | Plano, TX | High volume |
-| HCL Technologies | Sunnyvale, CA | High volume |
-| Capgemini | New York, NY | High volume |
-| Accenture | Chicago, IL | High volume |
-| Deloitte | New York, NY | High volume |
-| Kforce | Tampa, FL | Active sponsor |
-| Randstad | Atlanta, GA | Active sponsor |
-| Pyramid Consulting | Alpharetta, GA | Active sponsor |
-| Mindlance | Union, NJ | Active sponsor |
-| Synechron | New York, NY | Active sponsor |
-| Tekwissen LLC | Ann Arbor, MI | Active sponsor |
-| Kyyba Inc | Farmington Hills, MI | Active sponsor |
-| Aditi Consulting | Bellevue, WA | Active sponsor |
-| LanceSoft | Herndon, VA | Active sponsor |
-| Compunnel Software | Princeton, NJ | Active sponsor |
-| Net2Source | Somerset, NJ | Active sponsor |
-| Spectraforce Technologies | Raleigh, NC | Active sponsor |
-| UST Global | Aliso Viejo, CA | Active sponsor |
-| Prowess Software Services | Cumming, GA | Active sponsor |
-| Ingenics Corporation | Greenville, SC | Active sponsor |
-| Populus Group | Troy, MI | Active sponsor |
+| Company | HQ Location | H-1B Track Record | Careers Page |
+|---------|-------------|-------------------|-------------|
+| Collabera | Basking Ridge, NJ | High volume H-1B sponsor | [Careers](https://collabera.com/job-search/) |
+| Mastech Digital | Pittsburgh, PA | High volume H-1B sponsor | [Careers](https://jobs.mastechdigital.com/) |
+| Infosys | Atlanta, GA (US) | Top H-1B sponsor | [Careers](https://careers.infosys.com/) |
+| TCS | New York, NY | Top H-1B sponsor | [Careers](https://www.tcs.com/careers) |
+| Cognizant | Teaneck, NJ | Top H-1B sponsor | [Careers](https://careers.cognizant.com/us-en/jobs/) |
+| Wipro | East Brunswick, NJ | Top H-1B sponsor | [Careers](https://careers.wipro.com/) |
+| Tech Mahindra | Plano, TX | High volume | [Careers](https://careers.techmahindra.com/) |
+| HCL Technologies | Sunnyvale, CA | High volume | [Careers](https://careers.hcltech.com/) |
+| Capgemini | New York, NY | High volume | [Careers](https://www.capgemini.com/us-en/careers/job-search/) |
+| Accenture | Chicago, IL | High volume | [Careers](https://www.accenture.com/us-en/careers/jobsearch) |
+| Deloitte | New York, NY | High volume | [Careers](https://apply.deloitte.com/careers/SearchJobs) |
+| Kforce | Tampa, FL | Active sponsor | [Careers](https://www.kforce.com/find-work/search-jobs/) |
+| Randstad | Atlanta, GA | Active sponsor | [Careers](https://www.randstaddigital.com/careers/current-opportunities/) |
+| Pyramid Consulting | Alpharetta, GA | Active sponsor | [Careers](https://pyramidci.com/careers/) |
+| Mindlance | Union, NJ | Active sponsor | [Careers](https://mindlance.com/job-board/) |
+| Synechron | New York, NY | Active sponsor | [Careers](https://www.synechron.com/en-us/careers/jobs) |
+| Tekwissen LLC | Ann Arbor, MI | Active sponsor | [Careers](https://tekwissen.com/job-openings/) |
+| Kyyba Inc | Farmington Hills, MI | Active sponsor | [Careers](https://www.kyyba.com/careers.html) |
+| Aditi Consulting | Bellevue, WA | Active sponsor | [Careers](https://www.aditiconsulting.com/careers) |
+| LanceSoft | Herndon, VA | Active sponsor | [Careers](https://careers.lancesoft.com/) |
+| Compunnel Software | Princeton, NJ | Active sponsor | [Careers](https://www.compunnel.com/job-search/) |
+| Net2Source | Somerset, NJ | Active sponsor | [Careers](https://www.net2source.com/jobs) |
+| Spectraforce Technologies | Raleigh, NC | Active sponsor | [Careers](https://spectraforce.com/Careers/JobList) |
+| UST Global | Aliso Viejo, CA | Active sponsor | [Careers](https://www.ust.com/en/jobsearch) |
+| Prowess Software Services | Cumming, GA | Active sponsor | [Careers](https://www.prowesssoft.com/careers/) |
+| Ingenics Corporation | Greenville, SC | Active sponsor | [Careers](https://www.ingenics.com/en/career/) |
+| Populus Group | Troy, MI | Active sponsor | [Careers](https://www.populusgroup.com/en/job-seeker/contract-direct-hire) |
 
 ---
 
